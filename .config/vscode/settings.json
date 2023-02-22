@@ -1,0 +1,27 @@
+{
+    "editor.matchBrackets": "never",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.renderWhitespace": "trailing",
+    "editor.occurrencesHighlight": true,
+    "editor.suggest.insertMode": "replace",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "files.autoSave": "onFocusChange",
+    "explorer.confirmDragAndDrop": false,
+    "workbench.tree.indent": 15,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.editor.enablePreview": false,
+    "git.enableSmartCommit": true,
+    "workbench.colorTheme": "Tokyo Night",
+    "editor.fontFamily": "'Jetbrains Mono'",
+    "editor.fontLigatures": false,
+    "editor.lineHeight": 20,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.activityBar.visible": true,
+    "workbench.editor.untitled.hint": "hidden",
+    "security.workspace.trust.banner": "never",
+    "terminal.integrated.gpuAcceleration": "off",
+
+    
+    
+
+}

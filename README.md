@@ -29,7 +29,7 @@
              maim           > screenshot
 
                                
-
+```
 
 # Content
 
@@ -56,7 +56,3 @@ a
 
 
 # Themes
-
-
-
-

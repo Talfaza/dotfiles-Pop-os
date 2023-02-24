@@ -69,6 +69,14 @@ Installation :
 sudo add-apt-repository ppa:aslatter/ppa && sudo apt update && sudo apt install alacritty 
 ```
 
+- ZSH : 
+```sh
+sudo apt install zsh
+```
+- Ohmyzsh : 
+```sh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
 
 
 

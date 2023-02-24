@@ -33,6 +33,13 @@
 
 ```
 
+# Preview
+![blank](https://github.com/Talfaza/dots/blob/main/screenshot/Fri%20Feb%2024%2003:13:40%20AM%20+01%202023.jpg)
+![terminal](https://github.com/Talfaza/dots/blob/main/screenshot/Fri%20Feb%2024%2001:40:21%20AM%20+01%202023.jpg)
+![rofi](https://github.com/Talfaza/dots/blob/main/screenshot/2023-02-24_03-12.png)
+
+![code&&thunar](https://github.com/Talfaza/dots/blob/main/screenshot/Fri%20Feb%2024%2001:40:29%20AM%20+01%202023.jpg)
+
 # Theme 
 
 
@@ -52,12 +59,6 @@
  ![vscode](https://www.nikouusitalo.com/content/images/size/w2000/2021/10/Header.png)
  
 
-# Preview
-![blank](https://github.com/Talfaza/dots/blob/main/screenshot/Fri%20Feb%2024%2003:13:40%20AM%20+01%202023.jpg)
-![terminal](https://github.com/Talfaza/dots/blob/main/screenshot/Fri%20Feb%2024%2001:40:21%20AM%20+01%202023.jpg)
-![rofi](https://github.com/Talfaza/dots/blob/main/screenshot/2023-02-24_03-12.png)
-
-![code&&thunar](https://github.com/Talfaza/dots/blob/main/screenshot/Fri%20Feb%2024%2001:40:29%20AM%20+01%202023.jpg)
 
 
 

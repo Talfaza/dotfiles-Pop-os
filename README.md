@@ -1,4 +1,5 @@
 
+
 ```
 
 
@@ -26,6 +27,7 @@
              polybar        > status bars
              lxappearance   > theme switcher for GTK+ 
              maim           > screenshot
+             flameshot      > screenshot
 
                                
 
@@ -45,4 +47,6 @@
  - Alacaritty Theme
  
  ![alacritty](https://github.com/Talfaza/dots/blob/main/IMG_20230224_025323.jpg)
+ - Rofi Theme
+ ![rofi](https://github.com/Talfaza/dots/blob/main/IMG_20230224_031647.png)
 

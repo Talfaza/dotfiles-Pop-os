@@ -18,7 +18,6 @@
              vscode         > text editor
              firefox        > browser 
              picome         > composite manager 
-             git            > global git config and aliases
              spotify        > music player
              thunar         > file manager
              alacritty      > terminal emulator 
@@ -29,44 +28,20 @@
              maim           > screenshot
 
                                
+
 ```
 
-# Content
-
-1.[Themes](#Themes)
-a
-a
-
-a
-a
-a
-a
-a
-a
-
-a
-a
-a
-a
-
-a
-a
-
-a
-a
-
-a
-a
-a
-a
-a
-a
-
-a
-a
-a
-a
-a
+# Theme & Color Schemes
+**Themes :**
 
 
-# Themes
+
+
+
+ - [arc-theme](https://github.com/horst3180/arc-theme)
+
+![enter image description here](https://camo.githubusercontent.com/bc506ad41edb5d7e5b851de839838d69719dfe4476b9d417aa0912bb811e5bdf/687474703a2f2f692e696d6775722e636f6d2f3541476c436e412e706e67)
+
+ - Alacaritty Theme
+ ![](https://github.com/Talfaza/dots/blob/main/IMG_20230224_025323.jpg)
+

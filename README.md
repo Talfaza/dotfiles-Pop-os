@@ -18,7 +18,7 @@
   ohmyzsh        > managing zsh configuration
   vscode         > text editor
   firefox        > browser 
-  picome         > composite manager 
+  picom          > composite manager 
   spotify        > music player
   thunar         > file manager
   alacritty      > terminal emulator 

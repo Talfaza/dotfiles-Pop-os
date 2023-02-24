@@ -48,6 +48,8 @@
  
  ![alacritty](https://github.com/Talfaza/dots/blob/main/IMG_20230224_025323.jpg)
  - Rofi Theme
- 
  ![rofi](https://github.com/Talfaza/dots/blob/main/IMG_20230224_031647.png)
+ 
+ - Visual Studio Code Theme ; [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
+ ![vscode](https://www.nikouusitalo.com/content/images/size/w2000/2021/10/Header.png)
 

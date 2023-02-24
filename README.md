@@ -48,5 +48,6 @@
  
  ![alacritty](https://github.com/Talfaza/dots/blob/main/IMG_20230224_025323.jpg)
  - Rofi Theme
+ 
  ![rofi](https://github.com/Talfaza/dots/blob/main/IMG_20230224_031647.png)
 

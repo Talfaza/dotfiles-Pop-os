@@ -1,6 +1,6 @@
 set $mod Mod4
 
-font pango:JetBrainsMonon Nerd Font Medium 13
+font pango:JetBrainsMono Nerd Font Medium 13
 
 exec --no-startup-id dex --autostart --environment i3
 
@@ -173,14 +173,14 @@ client.unfocused        $iancative-bg-color $inactive-bg-color $inactive-text-co
 client.focused_inactive $iancative-bg-color $inactive-bg-color $inactive-text-color 
 client.urgent           $urgent-bg-color    $urgent-bg-color   $text-color          
 
-#polybar lunch script
+#polybar 
 
+exec_always chmod +x home/talfaza/.config/polybar/lunch.sh
 exec_always /home/talfaza/.config/polybar/lunch.sh
 
-#background
+#feh for background 
 
 exec_always feh --bg-scale /home/talfaza/Pictures/wall.jpg
-
 #maim for screenshots
 
 bindsym $mod+Shift+s exec --no-startup-id maim "/home/$USER/Pictures/Screenshots/$(date).jpg"

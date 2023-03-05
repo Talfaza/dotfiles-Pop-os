@@ -6,8 +6,6 @@ syntax on
 
 "Numbers"
 set number
-set relativenumber
-
 " Set shift width to 4 spaces.
 set shiftwidth=4
 

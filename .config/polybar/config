@@ -59,7 +59,7 @@ font-3 = "Font Awesome 6 Brands:pixelsize=13;2"
 
 modules-left = i3 xwindow
 modules-center = mpd
-modules-right = pulseaudio cpu memory date powermenu
+modules-right = pulseaudio cpu memory date battery powermenu 
 
 tray-position = none
 tray-foreground = ${colors.blue}
@@ -126,6 +126,59 @@ interval = 2
 format-prefix = ""
 format-prefix-foreground = ${colors.aqua}
 label = %percentage:2%%
+
+[module/battery]
+type = internal/battery
+
+full-at = 99
+
+low-at = 5
+
+battery = BAT0
+adapter = ADP1
+
+poll-interval = 5
+
+
+time-format = %H:%M
+
+format-charging = <animation-charging> <label-charging>
+
+format-discharging = <ramp-capacity> <label-discharging>
+
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
+
+; Only applies if <bar-capacity> is used
+bar-capacity-width = 10
+
+; Only applies if <animation-charging> is used
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-4 = 
+; Framerate in milliseconds
+animation-charging-framerate = 750
+
+; Only applies if <animation-discharging> is used
+animation-discharging-0 = 
+animation-discharging-1 = 
+animation-discharging-2 = 
+animation-discharging-3 = 
+animation-discharging-4 = 
+; Framerate in milliseconds
+animation-discharging-framerate = 500
+
+; Only applies if <animation-low> is used
+; New in version 3.6.0
+animation-low-0 = !
+animation-low-1 = 
+animation-low-framerate = 200
+
 
 [module/memory]
 type = internal/memory

@@ -5,8 +5,7 @@
 #██  █████  █████ ██      ██    ██ ██ ██  ██ █████   ██ ██   ███ #
 #██      ██       ██      ██    ██ ██  ██ ██ ██      ██ ██    ██ #
 #██ ██████         ██████  ██████  ██   ████ ██      ██  ██████  #
-#################################################################                                                                
-                                                                
+##################################################################
 
 
 set $mod Mod4
@@ -200,3 +199,7 @@ bindsym $mod+Shift+s exec --no-startup-id maim "/home/$USER/Pictures/Screenshots
 exec_always picom
 #i3-gaps
 gaps inner 8
+#rofi menu 
+
+
+bindsym $mod+Shift+w exec --no-startup-id  ~/.config/rofi/wifi-menu.sh
